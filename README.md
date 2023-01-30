@@ -2,7 +2,13 @@
 
 THIS WEDSITE IS MADE USING 
 ****************************************************
-ReactJS, ExpressJS, MongoDB, Firebase, Redux, NodeJS
+ReactJS, 
+ExpressJS, 
+MongoDB, 
+Firebase, 
+Redux, 
+NodeJS
+****************************************************
 
 
 
